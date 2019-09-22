@@ -23,13 +23,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="2596" column="34" lean-forward="true" selection-start-line="2596" selection-start-column="34" selection-end-line="2596" selection-end-column="34" />
+            <state relative-caret-position="359">
+              <caret line="2595" column="32" lean-forward="true" selection-start-line="2595" selection-start-column="32" selection-end-line="2595" selection-end-column="32" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="avatar.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/images/avatar.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -56,9 +61,8 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="34" />
-    <option name="y" value="85" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
   </component>
@@ -142,12 +146,6 @@
               <item name="nightteamindex" type="b2602c69:ProjectViewProjectNode" />
               <item name="nightteamindex" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nightteamindex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nightteamindex" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nightteamindex" type="b2602c69:ProjectViewProjectNode" />
@@ -267,9 +265,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/avatar.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-109">
@@ -282,10 +277,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="2596" column="34" lean-forward="true" selection-start-line="2596" selection-start-column="34" selection-end-line="2596" selection-end-column="34" />
+        <state relative-caret-position="359">
+          <caret line="2595" column="32" lean-forward="true" selection-start-line="2595" selection-start-column="32" selection-end-line="2595" selection-end-column="32" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/avatar.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
